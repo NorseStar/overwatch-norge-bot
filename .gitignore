@@ -1,0 +1,13 @@
+# IntelliJ / JetBrains
+*.iml
+.idea/
+
+# Java build output
+build/
+target/
+out/
+
+# Secrets
+.env
+*.db
+*.mv.db
